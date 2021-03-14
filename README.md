@@ -1,0 +1,2 @@
+# Self_Driving_Car
+A virtual car which uses neural networks to determine the path from the top left corner of the screen to the bottom right corner of the screen, to and fro.  It is able to avoid any obstacles created in the route with the help of mouse pointer. The black screen is the area available to explore. Sand is activated by left mouse click and is of yeloow colour. The aim of the car is to avoid sand and reach its endpoints as quickly as possible
